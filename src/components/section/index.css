@@ -1,0 +1,10 @@
+.btn-upload {
+    background: linear-gradient(90deg, #D47A09 0%, #EBBF33 100%);
+    border-radius: 7px;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 24px;
+    color: #000000;
+}

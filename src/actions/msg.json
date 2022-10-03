@@ -1,0 +1,14 @@
+{
+    "login_success": {
+        "type": "success",
+        "msg": "Login Success"
+    },
+    "register_success": {
+        "type": "success",
+        "msg": "Register Success"
+    },
+    "tokenlist_success": {
+        "type": "success",
+        "msg": "Token List created successfully"
+    }
+}
